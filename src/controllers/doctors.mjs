@@ -1,8 +1,8 @@
-import { db, collection, getDocs } from '../db.mjs';
+import db from '../db.mjs';
 
 const getDoctors = async (req, res) => {
-	const doctorsCol = collection(db, 'doctores');
-	const doctorsSnapshot = await getDocs(doctorsCol);
+	const doctorsCol = db.collection('doctores');
+	const doctorsSnapshot = await doctorsCol.get();
 	const doctors = doctorsSnapshot.docs.map(doc => doc.data());
 	res.status(200).json(doctors);
 }

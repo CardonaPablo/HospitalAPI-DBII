@@ -1,0 +1,48 @@
+[
+	{
+	  "diagnostico": "Presenta tos no productiva, con señas de una inflamación en la cavidad",
+	  "fecha": "2023-06-15T18:00:00-06:00",
+	  "tratamiento": "Tomar 10 ml de Dextrometorfano cada 8 horas durante 3 días"
+	},
+	{
+	  "diagnostico": "Dolor abdominal agudo, posible apendicitis",
+	  "fecha": "2023-06-12T09:30:00-06:00",
+	  "tratamiento": "Realizar cirugía de apendicectomía"
+	},
+	{
+	  "diagnostico": "Lesión en el tobillo derecho, esguince grado II",
+	  "fecha": "2023-06-18T14:45:00-06:00",
+	  "tratamiento": "Inmovilización con férula y aplicar hielo cada 4 horas"
+	},
+	{
+	  "diagnostico": "Infección respiratoria aguda, sin complicaciones",
+	  "fecha": "2023-06-09T11:20:00-06:00",
+	  "tratamiento": "Antibiótico oral durante 7 días y reposo relativo"
+	},
+	{
+	  "diagnostico": "Fractura de muñeca izquierda, requiere reducción y yeso",
+	  "fecha": "2023-06-17T16:10:00-06:00",
+	  "tratamiento": "Realizar reducción cerrada y colocar yeso por 6 semanas"
+	},
+	{
+	  "diagnostico": "Infección urinaria, realizar cultivo y prescribir antibióticos",
+	  "fecha": "2023-06-10T10:00:00-06:00",
+	  "tratamiento": "Realizar cultivo de orina y prescribir antibióticos de amplio espectro"
+	},
+	{
+	  "diagnostico": "Dolor de cabeza recurrente, posible migraña",
+	  "fecha": "2023-06-13T08:30:00-06:00",
+	  "tratamiento": "Recomendar cambios en el estilo de vida y prescribir medicación para migraña"
+	},
+	{
+	  "diagnostico": "Hipertensión arterial, iniciar tratamiento farmacológico",
+	  "fecha": "2023-06-11T13:15:00-06:00",
+	  "tratamiento": "Iniciar medicación antihipertensiva y seguimiento regular"
+	},
+	{
+	  "diagnostico": "Conjuntivitis alérgica, recomendar colirio antihistamínico",
+	  "fecha": "2023-06-16T09:45:00-06:00",
+	  "tratamiento": "Recomendar colirio antihistamínico y evitar exposición al alérgeno"
+	}
+]
+  

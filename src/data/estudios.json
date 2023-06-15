@@ -1,0 +1,52 @@
+[
+	{
+		"descripcion": "Tomada para diagnóstico en la clínica",
+		"fecha": "2023-06-12T18:00:57-06:00",
+		"nombre": "Rayos X"
+	},
+	{
+		"descripcion": "Realizado para seguimiento del tratamiento",
+		"fecha": "2023-06-10T09:30:00-06:00",
+		"nombre": "Análisis de sangre"
+	},
+	{
+		"descripcion": "Examen visual para determinar agudeza",
+		"fecha": "2023-06-15T14:45:00-06:00",
+		"nombre": "Examen de la vista"
+	},
+	{
+		"descripcion": "Estudio de imagen para evaluar estructuras internas",
+		"fecha": "2023-06-08T11:20:00-06:00",
+		"nombre": "Resonancia magnética"
+	},
+	{
+		"descripcion": "Registro de la actividad eléctrica del corazón",
+		"fecha": "2023-06-17T16:10:00-06:00",
+		"nombre": "Electrocardiograma"
+	},
+	{
+		"descripcion": "Evaluación de la densidad mineral ósea",
+		"fecha": "2023-06-20T10:00:00-06:00",
+		"nombre": "Densitometría ósea"
+	},
+	{
+		"descripcion": "Estudio para visualizar las vías respiratorias",
+		"fecha": "2023-06-13T08:30:00-06:00",
+		"nombre": "Broncoscopia"
+	},
+	{
+		"descripcion": "Prueba de función pulmonar para diagnosticar enfermedades",
+		"fecha": "2023-06-11T13:15:00-06:00",
+		"nombre": "Espirometría"
+	},
+	{
+		"descripcion": "Análisis para detectar la presencia de microorganismos",
+		"fecha": "2023-06-16T09:45:00-06:00",
+		"nombre": "Cultivo de muestras"
+	},
+	{
+		"descripcion": "Estudio de la actividad eléctrica cerebral",
+		"fecha": "2023-06-19T12:30:00-06:00",
+		"nombre": "Electroencefalograma"
+	}
+]

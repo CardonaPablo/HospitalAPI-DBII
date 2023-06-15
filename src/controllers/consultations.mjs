@@ -1,10 +1,15 @@
-import { db, collection, getDocs } from '../db.mjs';
+import db from '../db.mjs';
 
 const getConsultationsByDoctor = async (req, res) => {
 	const { id: doctorId } = req.params;
 	const consultationsRef = db.collection('doctores').doc(doctorId).collection('consultas');
 	const consultationsSnapshot = await consultationsRef.get();
-	const consultations = consultationsSnapshot.docs.map(doc => doc.data());
+	// Add the id of each consultation to the object
+	const consultations = consultationsSnapshot.docs.map(doc => {
+		const data = doc.data();
+		data.id = doc.id;
+		return data;
+	});
 	res.send(consultations);
 }
 

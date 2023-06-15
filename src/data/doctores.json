@@ -1,0 +1,52 @@
+[
+	{
+		"cedula": "ABC123",
+		"especialidad": "Cardiología",
+		"nombre": "Dr. Juan Pérez"
+	},
+	{
+		"cedula": "DEF456",
+		"especialidad": "Dermatología",
+		"nombre": "Dra. Ana Gómez"
+	},
+	{
+		"cedula": "GHI789",
+		"especialidad": "Oftalmología",
+		"nombre": "Dr. Carlos Rodríguez"
+	},
+	{
+		"cedula": "JKL012",
+		"especialidad": "Pediatría",
+		"nombre": "Dra. Laura Sánchez"
+	},
+	{
+		"cedula": "MNO345",
+		"especialidad": "Ginecología",
+		"nombre": "Dra. María González"
+	},
+	{
+		"cedula": "PQR678",
+		"especialidad": "Ortopedia",
+		"nombre": "Dr. Luis Torres"
+	},
+	{
+		"cedula": "STU901",
+		"especialidad": "Neurología",
+		"nombre": "Dr. Roberto López"
+	},
+	{
+		"cedula": "VWX234",
+		"especialidad": "Oncología",
+		"nombre": "Dra. Patricia Ramírez"
+	},
+	{
+		"cedula": "YZA567",
+		"especialidad": "Endocrinología",
+		"nombre": "Dra. Andrea Silva"
+	},
+	{
+		"cedula": "BCD890",
+		"especialidad": "Psiquiatría",
+		"nombre": "Dr. Eduardo Cruz"
+	}
+]

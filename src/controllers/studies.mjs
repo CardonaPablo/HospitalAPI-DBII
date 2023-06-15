@@ -1,4 +1,4 @@
-import { db, collection, getDocs } from '../db.mjs';
+import db from '../db.mjs';
 
 const getAllStudiesByPatient = async (req, res) => {
 	const { id: patientId } = req.params;

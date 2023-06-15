@@ -1,0 +1,72 @@
+[
+  {
+    "sexo": "H",
+    "altura": 1.75,
+    "edad": 30,
+    "nombre": "Juan Pérez",
+    "peso": 70
+  },
+  {
+    "sexo": "M",
+    "altura": 1.60,
+    "edad": 45,
+    "nombre": "Ana Gómez",
+    "peso": 55
+  },
+  {
+    "sexo": "X",
+    "altura": 1.80,
+    "edad": 50,
+    "nombre": "Carlos Rodríguez",
+    "peso": 80
+  },
+  {
+    "sexo": "M",
+    "altura": 1.65,
+    "edad": 28,
+    "nombre": "Laura Sánchez",
+    "peso": 60
+  },
+  {
+    "sexo": "H",
+    "altura": 1.90,
+    "edad": 35,
+    "nombre": "Roberto López",
+    "peso": 90
+  },
+  {
+    "sexo": "M",
+    "altura": 1.70,
+    "edad": 42,
+    "nombre": "Patricia Ramírez",
+    "peso": 65
+  },
+  {
+    "sexo": "X",
+    "altura": 1.55,
+    "edad": 60,
+    "nombre": "Andrea Silva",
+    "peso": 75
+  },
+  {
+    "sexo": "H",
+    "altura": 1.75,
+    "edad": 55,
+    "nombre": "Eduardo Cruz",
+    "peso": 85
+  },
+  {
+    "sexo": "M",
+    "altura": 1.68,
+    "edad": 48,
+    "nombre": "María González",
+    "peso": 70
+  },
+  {
+    "sexo": "H",
+    "altura": 1.82,
+    "edad": 33,
+    "nombre": "Luis Torres",
+    "peso": 78
+  }
+]
